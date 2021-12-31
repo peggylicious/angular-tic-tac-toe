@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ng-peggys-tic-tac-toe": {
+      "hosting": {
+        "tic-tac-toe": [
+          "ng-peggys-tic-tac-toe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ng-peggys-tic-tac-toe"
+  }
+}
